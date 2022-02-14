@@ -1,0 +1,10 @@
+#footer1{
+    width: 100%;
+    display: block;
+    background-color: #524D4C;
+    min-height: 100px;
+}
+
+#footer-text{
+    color: aliceblue;
+}
